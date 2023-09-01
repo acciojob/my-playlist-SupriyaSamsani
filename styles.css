@@ -6,20 +6,22 @@ h2 {
 	text-align: center;
 }
 li {
-	line-style-type:none;
+	list-style-type:none;
 }
 a {
 	text-decoration-line:none;
 }
-..player_two {
+.player_two {
 	background-color: rgb(255, 255, 255);
 	padding: 20px;
 	border-radius:10px;
+	width:100%;
 }
-..player_one {
+.player_one {
 	background-color: rgb(255, 255, 255);
 	padding: 20px;
 	border-radius:10px;
+	width:100%;
 }
 body {
 	background-color: rgb(204, 204, 204);
